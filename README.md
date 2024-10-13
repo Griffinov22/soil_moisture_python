@@ -1,6 +1,6 @@
 # Soil Moisture Monitoring System with Raspberry Pi
 
-<img src="./images/example-setup.jpg" alt="full outside setup of raspberry pi with moisture sensor" style="width: 200px; display: inline-block;">
+<img src="./images/example-setup.jpg" alt="full outside setup of raspberry pi with moisture sensor" style="width: 200px; display: inline;">
 <img src="./images/pre-setup.jpg" alt="full outside setup of raspberry pi with moisture sensor" style="width: 200px; display: inline-block;">
 
 This project uses a Raspberry Pi to monitor the soil moisture levels of a plant and sends email reports at regular intervals. The system runs a cron-job every two hours between 8am and 8pm to collect moisture data and generate reports.
